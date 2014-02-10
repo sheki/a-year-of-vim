@@ -5,7 +5,8 @@ date: 2014-02-09
 ---
 I always end up deleting words forward and backwards, an I do that by selecting stuff in Visual mode. I should stop doing that and use these.
 
-##df
+df
+--
 Delete forward until you find x (inclusive). If x is found, vim will delete everything from the current cursor position to and including x.
 
 ##dFx
