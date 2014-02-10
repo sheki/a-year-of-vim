@@ -1,0 +1,12 @@
+name: A year of VIM
+description: One new VIM trick a day.
+meta_description: "A year of VIM, one trick a day"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'Your Name'
